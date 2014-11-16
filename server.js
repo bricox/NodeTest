@@ -1,6 +1,6 @@
 var http = require('http');
 
-var port = 8080;
+var port = 80;
 
 var server = http.createServer(function(req, res){
 	res.write('Hello World');
