@@ -1,0 +1,7 @@
+Node, Azure Notes
+
+Install the azure cli tools
+
+Create a site
+	azure site create 
+
