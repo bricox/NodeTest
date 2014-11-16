@@ -1,8 +1,5 @@
 {
   "name": "node-recipebox",
   "description": "A Node Azure Test",
-  "author": "Brian Cox",  
-  "scipts":{
-    "start": "node server.js"
-  }
+  "author": "Brian Cox"
 }
