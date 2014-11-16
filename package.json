@@ -1,0 +1,12 @@
+{
+  "name": "node-recipebox",
+  "description": "A Node Azure Test",
+  "author": "Brian Cox",
+  "dependencies": {
+    "http": "0.x.x"
+  },
+  "devDependencies": {
+    "vows": "0.5.x"
+  },
+  "engine": "node >= 0.10.0"
+}
